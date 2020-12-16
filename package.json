@@ -1,0 +1,32 @@
+{
+  "name": "algorithm-using-javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lmmmmm/Algorithm-Using-JavaScript.git"
+  },
+  "author": "lm839377386@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lmmmmm/Algorithm-Using-JavaScript/issues"
+  },
+  "homepage": "https://github.com/Lmmmmm/Algorithm-Using-JavaScript#readme",
+  "devDependencies": {
+    "@babel/core": "^7.12.10",
+    "@babel/preset-env": "^7.12.11",
+    "babel-jest": "^26.6.3",
+    "eslint": "^7.15.0",
+    "eslint-plugin-react": "^7.21.5",
+    "jest": "^26.6.3"
+  },
+  "dependencies": {
+    "babel-core": "^7.0.0-bridge.0",
+    "babel-preset-env": "^1.7.0",
+    "regenerator-runtime": "^0.13.7"
+  }
+}
